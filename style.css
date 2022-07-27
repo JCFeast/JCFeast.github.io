@@ -47,13 +47,14 @@
 
 .about-us-page-blog {
     width: 100%;
-    background-color: #ffff;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/background.jpg);
 }
 .blog-text-box {
+    margin: 0px 20% 0px 15%;
     background-color: #ffff;
     height: 100%;
     width: 60%;
-    padding: 10px 18.2%;
+    padding: 3%;
     text-align: center;
 }
 .blog-text-box h1 {
@@ -83,7 +84,7 @@
 .footer nav img{
     position: relative;
     width: 200px;
-    left: -14%
+    margin: 0px 10% 0px -15%
 }
 .footer .nav-links {
     float: right;
