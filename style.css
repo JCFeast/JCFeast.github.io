@@ -13,7 +13,7 @@
 .header{
     min-height: 972px;
     width: 100%;
-    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(6,4,1,0.3)),url(images/Home-page-background.png);
+    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(6,4,1,0.3)),url(Home-page-background.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -80,7 +80,7 @@ nav {
 .Introduction {
     min-height: 972px;
     width: 100%;
-    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(6,4,1,0.3)),url(images/Personalised-Introduction-Page-Background.jpg);
+    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(6,4,1,0.3)),url(Personalised-Introduction-Page-Background.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -106,7 +106,7 @@ nav {
 .The-Area {
     min-height: 972px;
     width: 100%;
-    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(6,4,1,0.3)),url(images/thumbnail_IMG_3625.jpg);
+    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(6,4,1,0.3)),url(thumbnail_IMG_3625.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -210,7 +210,7 @@ nav {
 .The-Property {
     min-height: 972px;
     width: 100%;
-    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(6,4,1,0.3)),url(images/thumbnail_IMG_0130.jpg);
+    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(6,4,1,0.3)),url(thumbnail_IMG_0130.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -317,7 +317,7 @@ nav {
 .Pricing {
     min-height: 972px;
     width: 100%;
-    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(0,0,0,.7)),url(images/The-area-page-background.png);
+    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(0,0,0,.7)),url(The-area-page-background.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -372,7 +372,7 @@ nav {
 .Contact {
     min-height: 972px;
     width: 100%;
-    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(6,4,1,0.3)),url(images/Personalised-Introduction-Page-Background.jpg);
+    background-image: linear-gradient(rgba(6,4,11,0.4),rgba(6,4,1,0.3)),url(Personalised-Introduction-Page-Background.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
